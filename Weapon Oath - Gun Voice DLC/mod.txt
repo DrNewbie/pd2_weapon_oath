@@ -1,9 +1,9 @@
 {
-	"name": "Gun-Voice-DLC",
+	"name": "Weapon Oath - Gun Voice DLC",
 	"description": "When inspect in heist gfl voiceline of gun plays.",
 	"author": "Dr_Newbie",
 	"contact": "https://modworkshop.net/mod/36552",
-	"version": "1",
+	"version": "1.00.001",
 	"priority": 100,
 	"hooks": [
 		{
@@ -20,16 +20,5 @@
 				"download": "https://drnewbie.github.io/pd2_weapon_oath/Update/weapon-oath-gun-voice-dlc-system.zip"
 			}
 		}
-	],
-	"dependencies": {
-		"weapon-oath-main": {
-			"meta": "https://drnewbie.github.io/pd2_weapon_oath/Update/weapon-oath-system.meta.json"
-		},
-		"T-Doll-DLC-System": {
-			"meta": "https://drnewbie.github.io/pd2_weapon_oath/Update/weapon-oath-t-doll-dlc-system.meta.json"
-		},
-		"T-Doll-DLC-Assets": {
-			"meta": "https://drnewbie.github.io/pd2_weapon_oath/Update/weapon-oath-t-doll-dlc-assets.meta.json"
-		}
-	}
+	]
 }
