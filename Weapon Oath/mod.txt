@@ -1,0 +1,32 @@
+{
+	"name": "Weapon Oath",
+	"description": "https://modworkshop.net/mod/34963",
+	"author": "Dr_Newbie",
+	"contact": "https://modworkshop.net/mod/34963",
+	"version": "5.6",
+	"priority": 100,
+	"hooks": [
+		{
+			"script_path": "Hooks/blackmarketgui.lua",
+			"hook_id": "lib/managers/menu/blackmarketgui"
+		},
+		{
+			"script_path": "Hooks/playermanager.lua",
+			"hook_id": "lib/managers/playermanager"
+		},
+		{
+			"script_path": "Hooks/weapontweakdata.lua",
+			"hook_id": "lib/tweak_data/weapontweakdata"
+		}
+	],
+	"updates": [
+		{
+			"identifier": "Weapon Oath (Main System)",
+			"host": {
+				"meta": "https://drnewbie.github.io/pd2_weapon_oath/Update/weapon-oath-system.meta.json",
+				"patchnotes": "https://modworkshop.net/mod/34963?tab=changelog",
+				"download": "https://drnewbie.github.io/pd2_weapon_oath/Update/weapon-oath-system.zip"
+			}
+		}
+	]
+}
