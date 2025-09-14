@@ -13,7 +13,7 @@
 	],
 	"updates": [
 		{
-			"identifier": "T-Doll DLC System (Weapon Oath)",
+			"identifier": "T-Doll-DLC-System",
 			"host": {
 				"meta": "https://drnewbie.github.io/pd2_weapon_oath/Update/weapon-oath-t-doll-dlc-system.meta.json",
 				"patchnotes": "https://modworkshop.net/mod/34963#changelog",
@@ -22,13 +22,13 @@
 		}
 	],
 	"dependencies": {
-		"Weapon Oath (Main System)": {
+		"weapon-oath-main": {
 			"meta": "https://drnewbie.github.io/pd2_weapon_oath/Update/weapon-oath-system.meta.json"
 		},
-		"T-Doll DLC System (Weapon Oath)": {
+		"T-Doll-DLC-System": {
 			"meta": "https://drnewbie.github.io/pd2_weapon_oath/Update/weapon-oath-t-doll-dlc-system.meta.json"
 		},
-		"T-Doll DLC Assets (Weapon Oath)": {
+		"T-Doll-DLC-Assets": {
 			"meta": "https://drnewbie.github.io/pd2_weapon_oath/Update/weapon-oath-t-doll-dlc-assets.meta.json"
 		}
 	}

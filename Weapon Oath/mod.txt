@@ -21,7 +21,7 @@
 	],
 	"updates": [
 		{
-			"identifier": "Weapon Oath (Main System)",
+			"identifier": "weapon-oath-main",
 			"host": {
 				"meta": "https://drnewbie.github.io/pd2_weapon_oath/Update/weapon-oath-system.meta.json",
 				"patchnotes": "https://modworkshop.net/mod/34963?tab=changelog",

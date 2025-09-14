@@ -1,6 +1,6 @@
 [
 	{
-		"ident": "Weapon Oath (Main System)",
+		"ident": "weapon-oath-main",
 		"version": "5.6",
 		"download": "https://drnewbie.github.io/pd2_weapon_oath/Update/weapon-oath-system.zip",
 		"patchnotes": "https://github.com/DrNewbie/pd2_weapon_oath/commits/main/"
