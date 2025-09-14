@@ -23,7 +23,7 @@
 	],
 	"dependencies": {
 		"Weapon Oath (Main System)": {
-			"meta": "https://drnewbie.github.io/pd2_weapon_oath/Update/weapon-oath-t-doll-dlc-assets.meta.json"
+			"meta": "https://drnewbie.github.io/pd2_weapon_oath/Update/weapon-oath-system.meta.json"
 		},
 		"T-Doll DLC System (Weapon Oath)": {
 			"meta": "https://drnewbie.github.io/pd2_weapon_oath/Update/weapon-oath-t-doll-dlc-system.meta.json"
