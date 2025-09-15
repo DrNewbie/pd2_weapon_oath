@@ -1,6 +1,7 @@
 [
 	{
 		"ident": "T-Doll-DLC-Assets",
+		"name": "Weapon Oath - T-Doll DLC (Assets)",
 		"version": "Assets.1.3.001",
 		"download": "https://github.com/DrNewbie/pd2_weapon_oath/releases/download/Assets.1.3/weapon-oath-t-doll-dlc-assets.1.3.001.zip",
 		"patchnotes": "https://github.com/DrNewbie/pd2_weapon_oath/commits/main/"

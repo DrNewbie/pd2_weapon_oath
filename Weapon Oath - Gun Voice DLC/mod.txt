@@ -15,9 +15,9 @@
 		{
 			"identifier": "Gun-Voice-DLC",
 			"host": {
+				"name": "Weapon Oath - Gun Voice DLC",
 				"meta": "https://drnewbie.github.io/pd2_weapon_oath/Update/weapon-oath-gun-voice-dlc-system.meta.json",
-				"patchnotes": "https://modworkshop.net/mod/36552?tab=changelog",
-				"download": "https://drnewbie.github.io/pd2_weapon_oath/Update/weapon-oath-gun-voice-dlc-system.zip"
+				"patchnotes": "https://modworkshop.net/mod/36552?tab=changelog"
 			}
 		}
 	]

@@ -1,6 +1,7 @@
 [
 	{
 		"ident": "Gun-Voice-DLC",
+		"name": "Weapon Oath - Gun Voice DLC",
 		"version": "1.00.001",
 		"download": "https://drnewbie.github.io/pd2_weapon_oath/Update/weapon-oath-gun-voice-dlc-system.zip",
 		"patchnotes": "https://github.com/DrNewbie/pd2_weapon_oath/commits/main/"

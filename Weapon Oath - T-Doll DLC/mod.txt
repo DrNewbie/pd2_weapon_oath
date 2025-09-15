@@ -15,9 +15,9 @@
 		{
 			"identifier": "T-Doll-DLC-System",
 			"host": {
+				"name": "Weapon Oath - T-Doll DLC (System)",
 				"meta": "https://drnewbie.github.io/pd2_weapon_oath/Update/weapon-oath-t-doll-dlc-system.meta.json",
-				"patchnotes": "https://modworkshop.net/mod/34963#changelog",
-				"download": "https://drnewbie.github.io/pd2_weapon_oath/Update/weapon-oath-t-doll-dlc-system.zip"
+				"patchnotes": "https://modworkshop.net/mod/34963#changelog"
 			}
 		}
 	]
